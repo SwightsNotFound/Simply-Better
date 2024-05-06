@@ -8,7 +8,7 @@ A modpack thats designed to make Minecraft _**Simply Better**_.
 - By using mods like [KTEFCLSM](https://modrinth.com/mod/forcecloseworldloadingscreen) and [RRLS](https://modrinth.com/mod/rrls) the speed shouldn't just be a number, you should be able to feel it.
 
 🔍 **GUI improvments**
-- By Using GUI mods like [Shulker Box Tooltips](https://modrinth.com/mod/shulkerboxtooltip), [BetterF3](https://modrinth.com/mod/betterf3) and [Beenfo](https://modrinth.com/plugin/beenfo) your expiernce should be much more clean and convenient.
+- By Using GUI mods like [Shulker Box Tooltips](https://modrinth.com/mod/shulkerboxtooltip), [BetterF3](https://modrinth.com/mod/betterf3) and [Beenfo](https://modrinth.com/plugin/beenfo) your experience should be much more clean and convenient.
 
 💡 **Other noteable features**
 
