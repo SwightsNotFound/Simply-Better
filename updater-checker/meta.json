@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "1.0",
+      "releasedAt": 1739736420544,
+      "downloads": {
+        "generic": "https://github.com/SwightsNotFound/simply-better/"
+      }
+    }
+  ]
+}
