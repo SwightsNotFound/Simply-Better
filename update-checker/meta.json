@@ -3,9 +3,10 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "1.0",
-      "releasedAt": 1739736420544,
+      "id": "3.0",
+      "releasedAt": 1740007180825,
       "downloads": {
+        "modrinth": "https://modrinth.com/modpack/simply-better/"
         "generic": "https://github.com/SwightsNotFound/simply-better/"
       }
     }
