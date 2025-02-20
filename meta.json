@@ -3,12 +3,16 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "3.0.0",
+      "id": "3.0",
       "releasedAt": 1740007180825,
       "promotions": {
           "downloads": {
               "generic": "https://github.com/SwightsNotFound/BetterTerraFirmaCraft-BTFC-/"
+<<<<<<< HEAD:meta.json
           }      
+=======
+          }
+>>>>>>> 1e0c1e5c9d7b1add48584e6696ce84353b4fbdc9:update-checker/meta.json
       }
     }
   ]
