@@ -3,12 +3,12 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "3.0",
+      "id": "3.0.0",
       "releasedAt": 1740007180825,
+      "updateType": "minor",
       "promotions": {
-      "downloads": {
-        "generic": "https://github.com/SwightsNotFound/BetterTerraFirmaCraft-BTFC-/"
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/mc-chocolate-edition/files/5756278"
+        }
       }
     }
-  ]
-}
