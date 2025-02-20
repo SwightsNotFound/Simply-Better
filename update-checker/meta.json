@@ -3,11 +3,13 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "3.0",
+      "id": "3.0.0",
       "releasedAt": 1740007180825,
-      "downloads": {
-        "modrinth": "https://modrinth.com/modpack/simply-better/"
-        "generic": "https://github.com/SwightsNotFound/simply-better/"
+      "promotions": {
+          "downloads": {
+              "generic": "https://github.com/SwightsNotFound/BetterTerraFirmaCraft-BTFC-/"
+              "modrinth": "https://modrinth.com/modpack/simply-better"
+          }      
       }
     }
   ]
