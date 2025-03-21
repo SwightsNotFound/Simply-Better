@@ -1,5 +1,6 @@
 # Moved
-This has been moved to my own self-hosted [Gitea server](https://git.swightshome.xyz/Swight/Simply-Better)
+This has been moved to my own self-hosted [Gitea server](https://git.swightshome.xyz/Swight/Simply-Better).
+
 A modpack thats designed to make Minecraft _**Simply Better**_.
 
 ## 🎯 **Only some of the many features**
