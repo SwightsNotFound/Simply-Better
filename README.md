@@ -1,15 +1,12 @@
-A modpack thats designed to make Minecraft _**Simply Better**_.
+## A modpack thats designed to make Minecraft _**Simply Better**_.
 
-## 🎯 **Only some of the many features**
+The goal of Simply Better is to strike a balance between enhanced visuals and performance, all while adding a variety of quality-of-life features. If you're looking for a modpack that focuses purely on performance, consider installing [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) instead.
 
-🚀 **Improved performance and speed**
+An example showcasing what the pack looks like at nighttime, including item animations, the hotbar, and a glimpse of the chat interface.
+![Example](https://i.imgur.com/USClnp6.png)
 
-- Simply Better uses many performance mods like [Sodium](https://modrinth.com/mod/sodium) so you can hopefully see a difference in your Frames.
-- By using mods like [KTEFCLSM](https://modrinth.com/mod/forcecloseworldloadingscreen) and [RRLS](https://modrinth.com/mod/rrls) the speed shouldn't just be a number, you should be able to feel it.
-
-🔍 **GUI improvments**
-- By Using GUI mods like [Shulker Box Tooltips](https://modrinth.com/mod/shulkerboxtooltip), [BetterF3](https://modrinth.com/mod/betterf3) and [Beenfo](https://modrinth.com/plugin/beenfo) your experience should be much more clean and convenient.
-
-💡 **Other noteable features**
-
-- By using [World Host](https://modrinth.com/mod/world-host) you can easily open your worlds to your friends.
+## **Disclaimers/Notes**
+- **If you have 16GB of RAM or more, I recommend setting the Maximum memory allocation to at least 8GB.**
+- This modpack is mainly made for me and some friends, so updates only happen when we need them. Nonetheless, you're welcome to use it, and I would appreciate it if you reported any issues you have to GitHub.
+- While you can use this modpack on online servers, it's not entirely made for that purpose. Some of the mods included (like [Freecam](https://modrinth.com/mod/freecam) for example) could get you flagged if used, but it's more likely they simply wouldn't work.
+- Make sure to tune the default keybinds and settings to your liking.
