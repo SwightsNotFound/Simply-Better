@@ -10,3 +10,6 @@ An example showcasing what the pack looks like at nighttime, including item anim
 - This modpack is mainly made for me and some friends, so updates only happen when we need them. Nonetheless, you're welcome to use it, and I would appreciate it if you reported any issues you have to GitHub.
 - While you can use this modpack on online servers, it's not entirely made for that purpose. Some of the mods included (like [Freecam](https://modrinth.com/mod/freecam) for example) could get you flagged if used, but it's more likely they simply wouldn't work.
 - Make sure to tune the default keybinds and settings to your liking.
+
+- # Alternative
+This has also been mirrored to my own self-hosted [Gitea server](https://git.swightshome.xyz/Swight/swightshome).
